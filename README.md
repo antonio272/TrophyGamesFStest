@@ -12,6 +12,7 @@ The two files with the fixed code are located in a folder named "trophyfixedcode
 Game Development:
 
 4)	Completed in 5 hours.
+   
 I have built a game using PHP and MySQL for the backend, following the MVC architecture and incorporating CRUD functions. The game is designed to cater to both administrators and regular users/players. On the front-end, I have utilized HTML, CSS, JavaScript, jQuery, and Leaflet to create an engaging user interface with numerous animations and game features.
 In the game, the final destinations have been set to the coordinates of Tivoli Gardens (55.6746686, 12.5657116) to provide a shorter and faster testing experience.
 
